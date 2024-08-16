@@ -1,0 +1,20 @@
+				--SQL Check Constraint--
+create table tblperson
+(
+pid int primary key,
+pname varchar(50),
+pemail varchar(50),
+page int 
+)
+
+insert into tblperson values
+(04,'Asadullah Bukhari','Asad1@gmail.com',-20),
+(02,'Mujeeb Hafeez','Mujji@yahoo.com',25),
+(03,'Arsalan Inam','Arsal@hotmail.com',30)
+
+delete from tblperson where pid=4
+select * from tblperson
+
+
+alter table tblperson add constraint CKC_tblperson_page
+check(page>0 and page<=100)

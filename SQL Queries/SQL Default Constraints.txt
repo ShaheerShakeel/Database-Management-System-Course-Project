@@ -1,0 +1,42 @@
+create database sample1
+				/*Default Constraint Queries*/
+
+--Creating Table for this Scnerio
+create table tbldeartment
+(
+did int primary key,
+dname varchar(50),
+dhead varchar(60)
+);
+create table tblemployee
+(
+empid int primary key,
+empname varchar(50),
+empdid int foreign key references tbldeartment(did) -- default 4
+);
+
+--Inserting records in tables
+
+insert into tbldeartment values
+(01,'HR','Faizan'),
+(02,'Payroll','Naeem'),
+(03,'MIS','Ahmed'),
+(04,'No Dept.Name','No Dept.Head')
+
+insert into tblemployee (empid,empname,empdid) values
+(02,'Syed Maaz Ahmed',null),
+(02,'Syed Saad Shah',03),
+(03,'Ali Babar',02),
+(04,'Ahsan Iqbal',01),
+(05,'Syeda Laiba Fatima',02),
+(06,'Syeda Minha Fatima',03)
+
+select * from tbldeartment
+select * from tblemployee
+
+
+alter table tblemployee add constraint 
+default_tbleEmp_empdid default 4 for empdid
+
+alter table tblemployee 
+drop constraint default_tbleEmp_empdid

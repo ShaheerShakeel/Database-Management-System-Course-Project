@@ -1,0 +1,97 @@
+--/1st-Query:
+create database Hotel_Management_System
+
+
+--/2nd-Query:
+create table Customer_Information
+(
+	Customer_ID int primary key identity(10000, 1),
+	Customer_Name varchar(50),
+	Customer_Address nvarchar(200),
+	Customer_Status varchar(50)
+)
+
+
+--/3rd-Query:
+create table Room_Class
+(
+	Class_ID int primary key identity(200, 100),
+	Class_Name varchar(50),
+	Price int
+)
+
+
+--/4th-Query:
+create table Room_Type
+(
+	Room_ID int primary key identity(100, 1),
+	Class_ID int, foreign key(Class_ID) references Room_Class(Class_ID)
+)
+
+
+--/5th-Query:
+create table Payments
+(
+	Payment_ID int primary key identity(90000, 1),
+	Customer_ID int, foreign key(Customer_ID) references Customer_Information(Customer_ID),
+	Payment int,
+	Payment_Date Date
+)
+
+
+--/6th-Query:
+create table Reservation
+(
+	Reservation_ID int primary key identity(1000, 1),
+	Customer_ID int, foreign key(Customer_ID) references Customer_Information(Customer_ID),
+	Room_ID int, foreign key(Room_ID) references Room_Type(Room_ID),
+	Room_Class_ID int, foreign key(Room_Class_ID) references Room_Class(Class_ID),
+	Reservation_Date Date,
+	Date_IN Date,
+	Date_Out Date
+)
+
+
+--/7th-Query:
+create table Employees_Class
+(
+	Class_ID int primary key identity(2000, 500),
+	Class_Name varchar(50)
+)
+
+
+--/8th-Query:
+create table Employees
+(
+	Employee_ID int primary key identity(2000, 1),
+	Employee_Name varchar(50),
+	Employee_ClassID int, foreign key(Employee_ClassID) references Employees_Class(Class_ID),
+	Job_Department nvarchar(100),
+	Employee_Address nvarchar(200),
+	Contact Bigint,
+	Employee_Username nvarchar(50),
+	Employee_Password nvarchar(50)
+)
+
+
+--/9th-Query:
+create table Transactions
+(
+	Transaction_ID int primary key identity(1,1),
+	Transaction_Name nvarchar(50),
+	Customer_ID int, foreign key(Customer_ID) references Customer_Information(Customer_ID),
+	Payment_ID int, foreign key(Payment_ID) references Payments(Payment_ID),
+	Employee_ID int, foreign key(Employee_ID) references Employees(Employee_ID),
+	Reservation_ID int, foreign key(Reservation_ID) references Reservation(Reservation_ID),
+	Transaction_Date Date
+)
+
+
+--/10th-Query:
+create table Reports
+(
+	Report_ID int primary key identity(30000, 1),
+	Transaction_ID int, foreign key(Transaction_ID) references Transactions(Transaction_ID),
+	Information nvarchar(1000),
+	Report_Date Date 
+)

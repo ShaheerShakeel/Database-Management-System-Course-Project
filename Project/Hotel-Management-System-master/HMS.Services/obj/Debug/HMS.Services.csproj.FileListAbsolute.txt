@@ -1,0 +1,90 @@
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Services.dll.config
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Services.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Services.pdb
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\EntityFramework.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\EntityFramework.SqlServer.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\EntityFramework.xml
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\EntityFramework.SqlServer.xml
+G:\T\Gul\QD-Project\HMS\HMS.Services\obj\Debug\HMS.Services.csprojAssemblyReference.cache
+G:\T\Gul\QD-Project\HMS\HMS.Services\obj\Debug\HMS.Services.csproj.CopyComplete
+G:\T\Gul\QD-Project\HMS\HMS.Services\obj\Debug\HMS.Services.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\obj\Debug\HMS.Services.pdb
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Data.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Entities.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Data.pdb
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Data.dll.config
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Entities.pdb
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\HMS.Entities.dll.config
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\T\Gul\QD-Project\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Services.dll.config
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Services.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Services.pdb
+G:\T\Gul\HMS\HMS.Services\bin\Debug\EntityFramework.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\EntityFramework.SqlServer.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Data.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Entities.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Data.pdb
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Data.dll.config
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Entities.pdb
+G:\T\Gul\HMS\HMS.Services\bin\Debug\HMS.Entities.dll.config
+G:\T\Gul\HMS\HMS.Services\bin\Debug\EntityFramework.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\EntityFramework.SqlServer.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\T\Gul\HMS\HMS.Services\obj\Debug\HMS.Services.csprojAssemblyReference.cache
+G:\T\Gul\HMS\HMS.Services\obj\Debug\HMS.Services.csproj.CopyComplete
+G:\T\Gul\HMS\HMS.Services\obj\Debug\HMS.Services.dll
+G:\T\Gul\HMS\HMS.Services\obj\Debug\HMS.Services.pdb
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Newtonsoft.Json.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Owin.dll
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+G:\T\Gul\HMS\HMS.Services\bin\Debug\Newtonsoft.Json.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Services.dll.config
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Services.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Services.pdb
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\EntityFramework.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\EntityFramework.SqlServer.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Data.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Entities.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Newtonsoft.Json.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Owin.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Data.pdb
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Data.dll.config
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Entities.pdb
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\HMS.Entities.dll.config
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\EntityFramework.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\EntityFramework.SqlServer.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\bin\Debug\Newtonsoft.Json.xml
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\obj\Debug\HMS.Services.csprojAssemblyReference.cache
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\obj\Debug\HMS.Services.csproj.CoreCompileInputs.cache
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\obj\Debug\HMS.Services.csproj.CopyComplete
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\obj\Debug\HMS.Services.dll
+H:\Shaheer-2\Shaheer\4th Semester\DBMS Theory - My\Project\Hotel-Management-System-master\HMS.Services\obj\Debug\HMS.Services.pdb

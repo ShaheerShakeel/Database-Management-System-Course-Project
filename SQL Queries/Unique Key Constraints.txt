@@ -1,0 +1,18 @@
+create table person
+(
+pid int primary key identity(1,1),
+pname varchar(50),
+email varchar(50) unique,
+phone int unique
+)
+
+insert into person values ('Samad','S@gmail.com',0324)
+,('Ahmed','S1@gmail.com',0324),('Sarah')
+
+select * from person
+
+delete from person where pid=1
+
+set identity_insert person on
+
+DBCC CheckIdent('person',reseed,1)

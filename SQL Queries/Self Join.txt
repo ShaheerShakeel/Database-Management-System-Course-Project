@@ -1,0 +1,59 @@
+create table selfjoinEmployee
+(
+Employeeid int primary key,
+EmployeeName varchar(50),
+ManagerID int 
+)
+
+insert into selfjoinEmployee values
+(01,'Mike',3),(2,'Rob',1),
+(03,'Todd',null),(04,'Ben',01),
+(05,'Sem',01)
+
+select * from selfjoinEmployee
+
+
+select e.EmployeeName as Employee,m.EmployeeName as Manager
+ from selfjoinEmployee as E 
+left join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
+
+select e.EmployeeName as Employee,m.EmployeeName as Manager
+ from selfjoinEmployee as E 
+inner join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
+
+select * from selfjoinEmployee
+select e.EmployeeName as Employee,m.EmployeeName as Manager
+ from selfjoinEmployee as E 
+cross join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
+
+
+
+
+
+
+
+
+
+
+
+
+
+select E.EmployeeName as Employee,M.EmployeeName as Manager
+from selfjoinEmployee as E
+left join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
+
+select * from selfjoinEmployee
+select E.EmployeeName as Employee,M.EmployeeName as Manager
+from selfjoinEmployee as E
+Inner join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
+
+select * from selfjoinEmployee
+select E.EmployeeName as Employee,M.EmployeeName as Manager
+from selfjoinEmployee as E
+cross join selfjoinEmployee as M
+on e.ManagerID=m.Employeeid
